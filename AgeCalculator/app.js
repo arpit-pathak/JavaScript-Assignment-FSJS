@@ -63,7 +63,8 @@ function daysInMonth(month, year) {
 function displayAge(yearAgeDiff, monthAgeDiff, dateAgeDiff) {
     if (yearAgeDiff < 0) {
         error.style.display = "block";
-        return;
+        yearAgeDiff = 00; monthAgeDiff = 00; dateAgeDiff = 00;
+        // return;
     }
     years.innerText = yearAgeDiff;
     months.innerText = monthAgeDiff;
