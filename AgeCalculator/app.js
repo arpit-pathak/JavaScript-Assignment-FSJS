@@ -7,6 +7,7 @@ const days = document.getElementById("days");
 const error = document.querySelector(".error");
 
 document.getElementById("dob").addEventListener("input", () => {
+    error.style.display = "none";
     getAge(dob.value);
 });
 
