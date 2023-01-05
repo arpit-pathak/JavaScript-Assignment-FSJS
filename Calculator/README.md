@@ -1,5 +1,9 @@
 # Calculator ⌨
 
+## 📌 **Project's Live Link 🚀 [Click here](https://calculatorfsjs.netlify.app/)🔗**
+
+### Screenshot
+
 ![project Image](./Image/Calculator.png)
 
 ## 📌 Topics I learned while working on this project 📝

@@ -1,10 +1,11 @@
 # 🤔 JavaScript QUIZ app ❔
 
-## 🚀 Website's [Live Link](https://jsquizweb.netlify.app/)🔗
+## 📌 **Project's Live Link 🚀 [Click here](https://jsquizweb.netlify.app/)🔗**
 
 > 👉 By [Arpit Pathak](https://github.com/arpit-pathak) 👨‍💻
 
 ### Screenshots :
+
 ![quiz page](./Image/Quiz_app.png)
 _result page :_
 ![result page](./Image/js-quiz-result-page.png)
@@ -16,9 +17,12 @@ _result page :_
 - Learned about `.checked` property used to return the checked status of an Input Radio Button.
 
 ## 📌 Time taken to finish this project ⏳
+
 - 2.5 hours
+
 ---
-![HTML CSS](https://img.shields.io/badge/HTML-CSS-orange) 
+
+![HTML CSS](https://img.shields.io/badge/HTML-CSS-orange)
 ![HTML CSS](https://img.shields.io/badge/JavaScript-yellow)
 ![author](https://img.shields.io/badge/Author-Arpit--Pathak-blue)
 
